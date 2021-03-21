@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-image: url("https://www.cleanpng.com/png-iphone-x-apple-iphone-7-plus-apple-iphone-8-plus-i-6053812/");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 .App-logo {
